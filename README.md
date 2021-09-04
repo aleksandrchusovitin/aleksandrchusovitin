@@ -10,6 +10,6 @@
 
 ## Follow me: ##
 [![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=Telegram)](https://t.me/nerealist)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=Gmail)](chusovitinalexandr@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=Gmail)](mailto:chusovitinalexandr@gmail.com)
 [![VK](https://img.shields.io/badge/VK-0d1117?style=for-the-badge&logo=VK)](https://vk.com/aachusovitin)
 [![linkedin](https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aleksandr-chusovitin-1a540418b/)
