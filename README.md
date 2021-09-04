@@ -13,3 +13,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-30363d?style=for-the-badge&logo=Gmail)](mailto:chusovitinalexandr@gmail.com)
 [![VK](https://img.shields.io/badge/VK-30363d?style=for-the-badge&logo=VK)](https://vk.com/aachusovitin)
 [![linkedin](https://img.shields.io/badge/linkedin-30363d?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aleksandr-chusovitin-1a540418b/)
+
+## Stats: ##
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksandrchusovitin&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandrchusovitin&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
