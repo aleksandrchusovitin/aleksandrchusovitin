@@ -1,4 +1,4 @@
-![Header](https://github.com/aleksandrchusovitin/aleksandrchusovitin/blob/main/assets/images/logo2.gif)
+![Header](https://github.com/aleksandrchusovitin/aleksandrchusovitin/blob/main/assets/images/anim_logo.gif)
 
 # *I am beginner front-end developer* #
 
