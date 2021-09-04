@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi 👋, I'm Aleksandr Chusovitin #
 
-<!--
-**aleksandrchusovitin/aleksandrchusovitin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# *A beginner front-end developer* #
 
-Here are some ideas to get you started:
+## Languages and tools: ##
+![Html5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=JavaScript)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=GitHub)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Follow me: ##
+[![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=Telegram)](https://t.me/nerealist)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=Gmail)](chusovitinalexandr@gmail.com)
+[![VK](https://img.shields.io/badge/VK-0d1117?style=for-the-badge&logo=VK)](https://vk.com/aachusovitin)
+[![linkedin](https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aleksandr-chusovitin-1a540418b/)
