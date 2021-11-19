@@ -1,6 +1,6 @@
 ![Header](https://github.com/aleksandrchusovitin/aleksandrchusovitin/blob/main/assets/images/logo.png)
 
-# *I am beginner frontend developer* #
+# *I am frontend/react developer* #
 
 ## Languages and tools: ##
 [![Html5](https://img.shields.io/badge/HTML5-30363d?style=for-the-badge&logo=html5)](https://www.w3schools.com/html/)
