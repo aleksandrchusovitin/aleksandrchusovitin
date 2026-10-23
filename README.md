@@ -1,6 +1,6 @@
 ![Header](https://github.com/aleksandrchusovitin/aleksandrchusovitin/blob/main/assets/images/logo.png)
 
-# *I am Engeneer* #
+# *I am Engineer* #
 
 ## Follow me: ##
 [![Telegram](https://img.shields.io/badge/Telegram-30363d?style=for-the-badge&logo=Telegram)](https://t.me/nerealist)
